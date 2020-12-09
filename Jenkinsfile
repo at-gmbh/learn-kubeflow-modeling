@@ -12,7 +12,7 @@ pipeline {
 
     environment {
 
-        PROJECT_NAME = "kubeflow-102"  
+        PROJECT_NAME = "kubeflow-120"  
         APP = "learn-kubeflow-modeling"
         ENV="dev"
 
